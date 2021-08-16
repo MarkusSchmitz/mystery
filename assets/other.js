@@ -205,7 +205,7 @@ function loadCrystalModule() {
 function initiateTimeDecoder(){
   if (check1 == true && check2 == true && check3 == true && check4 == true && check5 == true){
     console.log("all checks run successfully");
-    document.getElementById("resulttext").innerHTML = "Continue!";
+    document.getElementById("resulttext").innerHTML = "Open Entropy Tunnel!";
     document.getElementById("resultlink").href = "https://fau.zoom.us/j/67046710614";
   }
 }

@@ -116,7 +116,7 @@ body {
   text-align: center;
   white-space: nowrap;
   background-color: #0d6efd;
-  transition: width .6s ease;
+  transition: width .5s ease;
   --bs-gutter-x: 0rem;
 }
 
